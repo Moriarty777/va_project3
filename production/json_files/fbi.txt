@@ -1,0 +1,165 @@
+[
+{
+"title": "Bulletin on Abdillah Zinedine alias Abu Hafs",
+"description": "This report concerns a bulletin issued on 2 April, 2003 by the Surete' de l'Etat in Paris concerning a Moroccan named Abdillah Zinedine, alias: Abu Hafs. The Surete' reported that Zinedine left Paris on a flight to Montreal, Canada on 1 April, 2003 and was traveling under a French passport in the name of Mehdi Rafiki. A man using a French passport in the name Abu Hafs rented a car at the Canadauto Car Rental Agency in Montreal on 2 April, 2003. This rented car was never returned to this agency. It was discovered abandoned on Walden Ave near Schiller Park in Buffalo, NY on 6 April, 2003."
+},
+{
+"title": "Arrest of Riyad Yasser in UK",
+"description": "Riyad Yasser, a UK citizen and air traffic controller at Heathrow Airport, was arrested on 1 May, 2003 following an accident on the M4 Motorway near the Heston Service Area outside of London. Two kilos of Semtex were found in the trunk of his car. A videocassette of a sermon given by Omar Mahmoud Othman, formerly a Salafi jihad preacher at the Baker St. Mosque in London, was found in Yasser's apartment at # 44, Northumberland Circle, East Bedfont, London. Also found in Yasser's apartment was a note containing several addresses in Canada, the USA, and in Nassau in the Bahamas."
+},
+{
+"title": "Investigation on Abu Somad and Yazid Bafaba in response to CIA report",
+"description": "Investigators visited the residences of Abu Somad and Yazid Bafaba at 235 Buckthorn St, Inglewood CA, and 773 Flaxton St., Culver City, CA respectively. Both Somad and Bafaba denied knowing persons named Riduan Sungkar or Omar Evertts. However, it was later discovered that they hold a joint account at the CalNational Bank in Culver City and have received several deposits of $1000 to this account from BMI, a private Islamic investment company in Newark, NJ."
+},
+{
+"title": "Man using false identity rented car in Chicago and abandoned it at O'Hare Airport",
+"description": "A man using an Illinois driver's license in the name Abu Hafs, address 2211 Cermak Rd.. in Chicago, rented a car at the Drexel Car Rental Agency in Chicago on 27 September, 2003. This car was never returned to the Drexel agency. It was found abandoned in a parking lot at O'Hare Airport on 2 October, 2003. On 27 April a roundtrip airline ticket to Hobby Airport in Houston, Texas was issued by Central States Airline at O'Hare Airport to a man who gave his name as Mehdi Rafiki. Rafiki paid for this ticket in cash and used as identification a French passport in the name Mehdi Rafiki."
+},
+{
+"title": "Possible Hezbollah Members in Charlotte NC Area",
+"description": "The name Rifai Qasim has recently surfaced in identifying the presence of possible Hezbollah members in the Charlotte NC area. An Egyptian passport in the name of Rifai Qasim was found recently on the floor of the Southern Trailways bus depot in Charlotte, NC. The picture on this passport matches the appearance of a person using the name Omar Blakely, who was charged with theft on 1 October, 2003, of several items [total value: $3000] from an electronics supply store in Charlotte. Blakely gave his address as 3131 Western Ave. in Charlotte. Bank records reveal periodic deposits to an account held jointly in the names of Omar Blakely and Muhammed Mustafa at the Carolina First Bank, usually in the amount of $3000, from an account at the First Emirate Bank in Dubai, UAE. The Carolina First Bank account in the name of Blakely and Mustafa was closed on 23 October, 2003, and the house at 3131 Western Ave is now unoccupied. However, a search through this abandoned house revealed the envelopes of several letters addressed to Rifai Qasim."
+},
+{
+"title": "Possible link between Jamal al Quso and Islamic Jihad in Chicago",
+"description": "Jamal al Quso, who was said to have come from London to Chicago in 1999, was reported to have landed at O'Hare Airport on July 18, 1999 using a British passport in his name. A house at 2211 Cermak Rd. in Chicago, said by an informant to be occupied by members of Islamic Jihad, was raided by an FBI team on 28 September, 2003. Thirty kilos of C-4 plastic explosives were found at this residence along with an additional 25 kilos of Semtex. Maps of O'Hare Airport and diagrams of the Sears Tower were also confiscated. Abdul Murad, the only person present at the residence during the raid, has refused to reveal the identities of the other occupants. On a notepad found in the room Quso possibly occupied at this residence was listed the message [in Arabic]: 'Jamal, call Khalid S., Texas, tomorrow for sure.' Jamal al Quso's present location is unknown."
+},
+{
+"title": "Apprehension of Man Posing as Priest at Toronto Airport",
+"description": "On 1 November, 2003, the Royal Canadian Mounted Police (RCMP) reported the apprehension of a man posing as a Dominican priest at Toronto Airport. The man was traveling from CDG, Paris on a French passport under the name Fr. Augustin Dominique with an address of 174 Rue Cardinet, Paris. When asked about his destination, he mistakenly answered in Arabic instead of French. The Canadian Security Intelligence Service (CSIS) identified the man as Abdal al Hawsawi, a Saudi who had been associated with a chemical weapons expert named Abdul Ahmed Nasser in Afghanistan. The ticket folder Hawsawi was carrying had an address of 1712 Ferry St, Buffalo, NY."
+},
+{
+"title": "Arrest of Mousa Salah at Dulles International Airport",
+"description": "Mousa Salah, of no fixed address in Herndon, VA, was arrested on 1 November, 2003 at Dulles International Airport as he attempted to board a flight to London Heathrow. He was using a Jordanian passport in the name Shadi abu Hoshar at the time of his arrest. Salah has been wanted in connection with Hamas fund-raising and other activities in Northern Virginia. It is believed that Salah entered the USA illegally from Windsor, Canada into Detroit, MI in 2002. Salah was in possession of a Virginia driver's license # T21-23-8820 registered in the name Mousa Salah. The license number was issued on 10 August, 2001 to a woman named April Stevens of Roanoke, VA. Ms Stevens is not the subject of further investigations. The address shown on Salah's driver's license does not exist. Several numbers and initials were written on the back of an envelope in possession of Salah at the time of his arrest; they are: (i) J. T., Detroit, (ii) A. H., Newark, (iii) M. M., Laurel."
+},
+{
+"title": "Possible Al Qaeda associate under surveillance in Houston, Texas",
+"description": "Khalid Shamrani, a Saudi national working for TexEast Petroleum Co. in Houston, Texas, has been under surveillance for possible Al Qaeda associations. He first came to the attention of authorities after attending meetings of God's Aryan Militia in Texas. An FBI informant who attended the meetings with Shamrani reported seeing detailed plans for the Houston Ship Channel, Reliant Stadium, and the Galleria Shopping Mall at Shamrani's home. The informant also said that Shamrani revealed his association with an Islamic group with similar objectives as the militia group, including the elimination of Zionist influence on the US government. Shamrani mentioned that there would be 'big events' in Houston, Chicago, and other places in the next year, but did not provide further details."
+},
+{
+"title": "Possible association with terrorist groups: Ahmed Doha and Abu Ayyash",
+"description": "Ahmed Doha and Abu Ayyash, graduate students at the University of Missouri, were found to have paid for their auto insurance policies from the same account and lied about knowing each other. Doha filed a fraudulent insurance claim with Ayyash's insurance company and received a settlement. A search of Doha's apartment revealed that Ayyash also lived there, and police found a laptop and CDs containing a version of the Encyclopedia of Jihad. Investigation uncovered emails to over 100 US addresses, including one referring to sending money to a person with possible ties to terrorism. Hamas and Al Qaeda were known to have a presence in Columbia, MO, and the investigation into the possible association of Doha and Ayyash with these groups continues."
+},
+{
+"title": "FBI search for information on J.T., A.H., and M.M.",
+"description": "The FBI searched for information on individuals with the initials J.T. in Detroit, MI, A.H. in Newark, NJ, and M.M. in Laurel, MD. Eight persons with initials J.T. were found in Detroit, but none had any interesting information. A. H. was identified as Adnan Hijazi and had been cleared of any association with the 9/11 attacks. Two individuals with initials M.M. were found in FBI files for Laurel, MD; Martha Mason, who is incarcerated for drug distribution, and Mounir Mzoudi, who recently attracted the FBI's attention due to his past association with the Islamic Circle of North America, which supported the Taliban at the time of their meeting in 2000."
+},
+{
+"title": "Tip leads FBI to residence suspected of manufacturing explosives in Kansas City",
+"description": "An anonymous tip directed investigators to a residence at 2111 Troost Ave. in Kansas City, Missouri. Traces of chemicals necessary to produce explosives were found on items in this residence's garbage. When this residence was searched on 22 December, 2003, one man was apprehended. Another man, Jamal al Quso, was also apprehended later. What was found at this residence were batches of hexamethylene triperoxide diamine [HMTD] and cyclotrimethylene trinitramine [RDX], both primary explosives. Also found were detailed drawings of three popular casinos in the Kansas City area: the Argosy Riverside Casino, the Isle of Capri Casino, and Harrah's Casino."
+},
+{
+"title": "Two Men Arrested for Bank Robbery in Arlington, Texas",
+"description": "On 26 December, 2003, Saeed al Nami and Riyad al Taifi were arrested during a robbery attempt at the FirstTex Bank in Arlington, Texas. Both men wore ski masks and were apprehended by police as they fled the scene. The investigation revealed that they had forged Texas driver's licenses and had entered the USA from Mexico. Money from other banks in the Dallas area, small arms, and literature concerning jihad activities were found in their apartment, which they had rented from a woman named Ruth Tucker. They claimed to be students at the University of Texas in Arlington, and a letter from A. Doman in Columbia, MO was found in their apartment."
+},
+{
+"title": "FBI Interview with Wali Shakur",
+"description": "Based on the information about Wali Shakur, noted in the FBI report of 27 November, 2003, agents were sent to interview him at the 224 Paulson Ave. Clifton NJ address given in this report. Before this interview information was obtained about Shakur's background. He is an American citizen, having been born in 1970 in New Brunswick, NJ of parents who were immigrants from Pakistan in 1965. Shakur attended Rutgers University for two years , dropping out in 1990 in order to study at the American University in Beirut, Lebanon. He returned to the USA in 1993. Shakur was shown a copy of the e-mail he had received from either Ahmed Doha or Abu Ayyash on 3 November, 2003. He was also asked what the 4,000 in this message referred to. Shakur replied that both Doha and Ayyash were students at the University of Missouri and were good friends of his father and that he, Shakur, did not know them personally. Shakur said that his father had in 2001 loaned them $8,000 and had not yet received any payment on this loan. Shakur said he requested at least half payment on this loan and later received a Western Union wire of $4,000 from Doha. Shakur said he gave the cash to his father. Asked for his father's address, Shakur said his father had died on 2 January, 2004. Shakur's activities remain the subject of FBI investigations."
+},
+{
+"title": "Surveillance of Imam Jamal al Shibh at Tawhid Mosque in Miami, Florida",
+"description": "Jamal al Shibh, of Yemeni origin, has been the Imam at the Tawhid Mosque in Miami, Florida for the past ten years. As a result of recent reports provided by informants about al Shibh's call for jihad in America, he has been under surveillance. He was photographed on 2 February, 2004, on the University of Miami campus in Coral Gables, distributing literature, written in Arabic, at various locations known to be frequented by Islamic students. This literature describes how well the city of Miami illustrates that America has become a sink of vice and corruption. Examples are provided of the easy availability of sex and drugs in the Miami area. This literature also calls for immediate jihadic action in order to prevent the corruption of Muslims in America. Especially singled out in this literature is the tourist industry in the Miami area."
+},
+{
+"title": "Update on the surveillance of Adnan Hijazi",
+"description": "Checks with airlines reveal that he made three trips overseas in the last three months: Madrid, Spain [1 - 5 December, 2003]; Cairo, Egypt [21 - 24 December, 2003]; Paris, France [ 12 - 18 January, 2004]."
+},
+{
+"title": "Further information on Jamal al Shibh's activities",
+"description": "When al Shibh was observed distributing jihadic literature on the University of Miami campus, he was accompanied by Muhammed Dandani of 455 11th St. in Miami Beach, FL. There is no further information about Dandani."
+},
+{
+"title": "Abdul al Nami in Detroit",
+"description": "In response to a DIA report of 5 March regarding Abdul al Nami, a check was made of persons with this name in the Detroit area. There are two persons having this name in the Detroit area. One lives at 562 Fenkell Ave. and the other lives at 766 Livernois Rd. Neither of these two persons have been the subject of FBI investigations in the past. It is now known that the 562 Fenkell Ave. resident is employed as a computer scientist by Detroit Utilities Co. and has worked there for seven years. He holds an American passport giving this address and has lived in the USA for ten years. The resident at 766 Livernois Rd. is a history teacher at the Westfields High School in the Ferndale area and was born in the USA of Saudi parents in 1969. Investigation of these two persons continues.."
+},
+{
+"title": "Further information regarding Saeed al Nami and Riyad al Taifi",
+"description": "Both individuals were apprehended during a robbery attempt in Arlington, Texas on 26 December, 2003. They are wanted by the police in Buenos Aires for their role in the bombing of a Jewish synagogue in Buenos Aires in April of 2002. They had fled to Calamar, Columbia after the bombing and collaborated with the ELN. In January, 2003 they entered the USA following a route taken by other Islamic militants known to have come into the USA. A search of their apartment at 2727 Robinson Rd. in Grand Prairie, Texas revealed an assortment of automatic weapons and the addresses of two men known to be associated with God's Aryan Militia in Texas. These men are Billy Jack Hawkins of 1212 Pipeline Rd., Euless, Texas, and Slade Goodman of 899 Almeda-Genoa Rd. in Houston, Texas.",
+"date": "Unknown"
+},
+{"title": "Further information on Abdul al Nami",
+"description": "Further information about Abdul al Nami who works as a computer scientist for the Detroit Utilities Co. [see FBI report 8, March, 2004]. Nami came to the USA from Saudi Arabia in 1994 on a student visa to attend the University of Michigan at Ann Arbor. He earned an MA 1996 in computer science and was granted a green card in 1997 for work at the Detroit Utilities Co. He applied for U.S. citizenship in 1999, which was granted in April of 2000. Officials at the Detroit Utilities Co say that al Nami is a splendid worker who has intimate knowledge of the SCADA system and was instrumental in increasing the efficiency of electric power distribution in the Detroit area. Officials said he took a six-months' leave of absence in January, 2001 to visit his family in Riyadh.."},
+{
+"title": "Information about Imad Dahdah",
+"description": "Received information from MI 6 about Imad Dahdah, who resides at #65 West End Ave. in Nassau, The Bahamas. Dahdah was born in Syria in 1964 and came to the UK in 1994. He became active in Islamic affairs and regularly attended the Baker St. mosque. He obtained British citizenship in 1998 and travels under a British passport. He traveled to Afghanistan in 1999 - 2000 and is now suspected of having been trained at an Al Qaeda facility during this time. Dahdah returned to the UK in March of 2000 but left for The Bahamas in June of 2000. He works at an auto repair shop for a minimum wage but is now known to receive periodic funds from an account at the Gulf Shores Bank in Tampa, FL. The account from which these funds are drawn belongs to an organization named Middle Eastern Charities."
+},
+{
+"title": "Information received from MI 5 regarding Raeed Beandali",
+"description": "Raeed Beandali, an American citizen who was listed on Al Qaeda rosters, was sent from Afghanistan to London on 12 December, 2002. A man named Reginald Cooper was arrested in London on 10 February, 2004 for carrying an unregistered British driver's license. Inquiries made at his address revealed that it was occupied by several men, one of whom was identified by neighbors as a 'nice American' who called himself Ralph Bean. An assortment of materials for constructing explosive devices were found in a shed behind this residence. Ralph Bean, traveling on an American passport, left London Heathrow on 16 March, 2004 for Detroit MI."
+},
+{
+"title": "Bail Bond Company Forfeits $10,000 Bail Bond for Rifai Qasim (Alias Omar Blakely)",
+"description": "BailOut, a bail bond company in Charlotte NC, forfeited the $10,000 bail bond they guaranteed for Rifai Qasim (alias Omar Blakely) in connection with a theft charge against him. Qasim and his associate Muhammed Mustafa closed their joint bank account on October 23, 2003, and fled in a 1997 Toyota Tercel, NC license # TQE-732. The car was found abandoned in River Rouge Park in Detroit, MI on December 15, 2003. A phone number belonging to Abdul al Nami, who resides at 562 Fenkell Ave. in Detroit, MI, was found in the car. A court-sanctioned tap was placed on the phone, and on May 15, 2004, a call was placed from this phone to a residence at 237 Hayes Ave in Detroit. The caller said: 'Rifai, we are all together now. We will let you know when the match will be played. It might take some time to get the right field.' The person receiving the call says: 'I hope it will not be too long, my side is really ready to play.' Investigators went to the residence at 237 Hayes Ave. on May 20, 2004, and found it to be unoccupied. Neighbors said that the two Middle Eastern men who had occupied this residence briefly had moved out just a few days earlier. The owner of this residence, a Mr. Howard Clark, said he had evicted the two men because they failed to pay their rent for two months. Clark did not know where they went."
+},
+{
+"title": "Overseas trips of Adnan Hijazi",
+"description": "Adnan Hijazi stayed at the Catalan Hotel in Madrid from 2-5 December 2003, attended a textiles convention, stayed at the Luxor Hotel in Cairo from 22-24 December 2003, made regular visits to a jewelry shop at 411 Ramses St. in Cairo, and stayed at the Hotel de St. Marie in Paris from 13-18 January 2004 and attended daily meetings at the Paris offices of Overseas Exports Inc."
+},
+{
+"title": "Conversation Recorded Between Khalid Shamrani and Three Other Men in God's Aryan Militia Meeting in Texas",
+"description": "The FBI informant who attends meetings of God's Aryan Militia [GAM] in Texas reports having recorded a conversation between Khalid Shamrani and three other men, two of whom the informant identified as Billy Jack Hawkins and Slade Goodman, both of whom are members of GAM. The third person our informant could only identify as a Middle Easterner named 'Hafs' or 'Halfs'. This was the name given him by Shamrani. The gist of this conversation, which took place at the Westerner Motel on Almeda-Genoa Rd. in Houston, was that actions involving destructive activities in the Houston area and elsewhere would be placed on hold for at least several months. They discussed the apprehension of a militia member named Walter Smith and another person named al Quso in Kansas City. The fear they expressed was that their actions were being compromised.."
+},
+{
+"title": "FBI interview of two men apprehended in Carrizo Springs, TX",
+"description": "The two men apprehended in Carrizo Springs, TX on 3 August, 2004, refused to answer any questions during an FBI interview and asked to be represented by an attorney. They were found in possession of a letter written in Arabic from a person named Abdul Nasser to a person named Ali al-Omari, which simply said: 'Go forth with Allah's blessing. You have been my best student.' Investigation of these two men continues."
+},
+{
+"title": "Continuing Surveillance of Adnan Hijazi",
+"description": "During the period 20 August to 18 September, 2004 Hijazi made thirteen cash deposits to his personal account at the Jersey National Bank in Newark, NJ. These deposits totaled $47,980."
+},
+{
+"title": "Belgian Intelligence Reports on Pieter Dopple's Diamond-Fencing Activities",
+"description": "The FBI requested information on Pieter Dopple, who sent diamonds to Adnan Hijazi as noted in a USCBP report. Belgian intelligence reports that Dopple has been under surveillance as a fence for diamonds obtained by groups associated with Islamic ventures in various African locations. Dopple cuts and polishes raw diamonds and tanzanite for distribution, receiving a fee but not selling the stones himself. He sends them to where his suppliers specify. During interrogation, Dopple admitted to transferring funds for militant Islamic groups and listed several other persons to whom he had sent polished diamonds and tanzanite, including Ramundo Ortiz in Panama City, Panama. Dopple had just sent about $150,000 in polished diamonds to Ortiz on 25 September, but could only identify the persons requesting the transaction as being from Peshawar, Pakistan."
+},
+{
+"title": "SCADA System Vulnerabilities",
+"description": "This alert highlights the vulnerabilities of SCADA systems, which manage critical functions in various industries including electricity, natural gas, chemical processing, water purification, and manufacturing. These systems are largely controlled and maintained by U.S. industries and are available on the Internet, making unauthorized access a constant source of concern. The alert also points out the specific vulnerabilities associated with trusted insiders. "
+},
+{
+"title": "Bank Wire Transfer to American Islamic Scholarship Fund",
+"description": "Continuing surveillance of Adnan Hijazi reveals that, on 14 September, 2004, he sent a bank wire transfer of $48,000 to the account of an organization called the American Islamic Scholarship Fund, which is located at 1721 Glade Dr. in Reston, VA."
+},
+{
+"title": "Enhanced Surveillance of Four Individuals in Detroit/Windsor Area",
+"description": "In response to an FBI HQ alert, the Detroit office began an enhanced surveillance of four individuals suspected of involvement in activities designed to disrupt SCADA systems. The individuals are Satam [alias Ronald] Derwish, Abdul al Nami, Rifai Qasim, and Raeed Beandali [alias Ralph bean]. Al Nami was found to be on vacation in Canada, and his employers were advised not to reveal that he was under investigation."
+},
+{
+"title": "Concerns over whereabouts of Khalid Shamrani",
+"description": "Informant from God's Aryan Militia reports that efforts to contact Khalid Shamrani at his home in Bellaire, Texas have been unsuccessful and he has not been seen for nearly a month. Investigation reveals that Shamrani had requested a month's leave of absence from TexEast Petroleum Co. to return to Saudi Arabia to be with his dying mother, but subsequent checks show that no one named Shamrani had left the USA in the past month."
+},
+{
+"title": "Traces of explosives found in rented storage unit in Houston",
+"description": "Unit 124 at StoreAll Rental in Houston was found to have traces of C-4 and Semtex. The renter had informed the owner on October 15, 2004 that they would no longer need the unit. Four men using a RentAll truck removed the contents of the unit the next day."
+},
+{
+"title": "Investigation of Satam Derwish in Windsor, Ontario",
+"description": "Satam Derwish, located at 811 Tecumseh Rd. in Windsor, Ontario, was interviewed by RCMP officers on October 25th. During the interview, Derwish denied contact with a person in Marrakech and any knowledge of who 'Abdul' was. A subsequent search of Derwish's residence uncovered materials for an electromagnetic pulse bomb, and he was taken into custody. Investigations continue."
+},
+{
+"title": "Donation to American Islamic Scholarship Fund traced to six individuals",
+"description": "Investigators traced a $48,000 scholarship donation made by Adnan Hijazi to the American Islamic Scholarship Fund to six individuals. The director of the fund, Abdul Karim, verified the donation and confirmed that Hijazi had made donations to the fund on two other occasions. The six individuals who received $8,000 each from Hijazi's donation were Wali Shakur, Hamza al Midhar, Mounir Mzoudi, Mamoun Zammar, Said Khadr, and Muhammed Dandani. The investigation continues."
+},
+{
+"title": "Results of investigation of Abdul al Nami in Detroit",
+"description": "Abdul al Nami was interviewed about his association with Satam Derwish and his work at Detroit Utilities Co. On evidence supplied by various communications, a warrant was approved to search his residence where a document describing the results of the 'Black Ice' project and items associated with the construction of e-bombs were found. al Nami is now in custody as further investigation proceeds."
+},
+{
+"title": "Letter Threatening Foot and Mouth Disease in Texas",
+"description": "On 1 December, 2004 this office received in the mail a letter signed 'Ramon'. This letter was mailed from a post office at Gulfgate in Houston but carried no return address. The letter said that a stain of Type A foot and mouth disease was now in Texas and that cattlemen around Victoria, TX would be the first to suffer. The note also said that members of FARC had traveled from Cartagena, Columbia to Guane, Cuba, to Chetumal, Mexico, to Piedras Negras, Mexico, and then to Victoria, TX."
+},
+{
+"title": "Letter Received from 'Juan' Regarding Foot and Mouth Disease",
+"description": "On 3 December, 2004 this office received a letter from a person who signed his name 'Juan'. This letter, having no return address, was mailed from a post office in Farmers Branch, TX. Like the letter sent to the Houston field office, this one said that a Type A strain of foot and mouth disease was brought into the USA by persons who had traveled from Cartagena, Columbia, to Guane, Cuba, to Ciudad Madero, Mexico, to Ciudad Acuna, Mexico, and then on to Victoria, TX. The letter closed by saying that this strain of FMD was a 'little greeting' from FARC and the ELN."
+},
+{
+"title": "Post on Government Secrets website about alleged theft of foot and mouth disease strain from Plum Island lab",
+"description": "On 6 December, 2004, a post was made on the website Government Secrets claiming that samples of a foot and mouth disease strain had been stolen from Lab 101 on Plum Island on 1 December, 2004. The post raised concerns about the security of the lab and the potential risks to the food supply."
+},
+{
+"title": "Middle Eastern men book two tours on tourist ship",
+"description": "Two men with Middle Eastern names, Said Khadr and Muhammed Dandani, booked two tours on the same tourist ship leaving just a month apart. The first tour left Miami on 15 November, 2004, for Nassau, The Bahamas, and returned on 21 November, 2004. The second tour would leave Miami for Nassau on 13 December, 2004, and return on 19 December, 2004. Both men held U.S. passports and were booked for first-class accommodations on the 'Majestic Clipper' for both tours. They took the first tour and are aboard the second."
+},
+{
+"title": "Double bookings by Middle Eastern persons on cruise ships",
+"description": "An immediate check was made of other cruise ship lines to see if there were other occurrences of such double bookings by Middle Eastern persons. Positive replies were obtained from the Royal Norwegian Lines in New York City and the Sea Aire Lines in Baltimore, MD. The Royal Norwegian Lines reported that two men named Wali Shakur and Hamza al Midhar had, on 20 September, 2004, booked first-class accommodations on the 'Viking Holiday' that left NYC on 14 November, 2004 and returned to NYC from Nassau on 21 November, 2004. The Sea Aire Lines reported that two men named Mounir Mzoudi and Mamoun Zammar had, on 21 September, 2004, booked two first-class accommodations on the 'Caribbean Queen'."
+}
+]
